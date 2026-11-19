@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: nomo.graphics
+  baseUrl: darknasa.com
   ignorePatterns:
     - private
     - templates
