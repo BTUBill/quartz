@@ -1,0 +1,10 @@
+{
+  "name": "quartz",
+  "compatibility_date": "2026-11-19",
+  "build": {
+    "command": "npx quartz build"
+  },
+  "assets": {
+    "directory": "./public"
+  }
+}
